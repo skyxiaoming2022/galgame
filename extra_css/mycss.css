@@ -1,0 +1,22 @@
+.red-text {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.custom-text {
+    color: #3498db; /* 自定义的蓝色 */
+    font-weight: bold; /* 加粗 */
+}
+
+.custon-blue-text {
+    color: blue;
+    font-weight: bold;
+}
+
+.custon-red-text {
+    color: red;
+    font-weight: bold;
+}
