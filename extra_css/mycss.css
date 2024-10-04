@@ -1,22 +1,35 @@
+/* 红色字体 */
 .red-text {
     color: red;
 }
 
+/*蓝色字体*/
 .blue-text {
     color: blue;
 }
 
-.custom-text {
-    color: #3498db; /* 自定义的蓝色 */
-    font-weight: bold; /* 加粗 */
-}
-
-.custon-blue-text {
+/*蓝色加粗*/
+.custom-blue-text {
     color: blue;
     font-weight: bold;
 }
 
-.custon-red-text {
+/*蓝色加粗*/
+.custom-red-text {
     color: red;
     font-weight: bold;
+}
+
+/*2倍居中*/
+.large-center-text {
+    font-size: 2em;  /* 调整字体大小，比如2倍标准大小 */
+    text-align: center;  /* 文本居中 */
+    margin: 20px 0;  /* 上下留一些空白，增强视觉效果 */
+}
+
+/*居中*/
+.center-text {
+    font-size: 1.5em;
+    text-align: center;  /* 文本居中 */
+    margin: 10px 0;  /* 上下留一些空白，增强视觉效果 */
 }
