@@ -1,0 +1,22 @@
+/* 红色字体 */
+.red-text {
+    color: red;
+}
+
+/*蓝色字体*/
+.blue-text {
+    color: blue;
+}
+
+/*蓝色加粗*/
+.custom-blue-text {
+    color: blue;
+    font-weight: bold;
+}
+
+/*红色加粗*/
+.custom-red-text {
+    color: red;
+    font-weight: bold;
+}
+

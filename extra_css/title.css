@@ -1,0 +1,32 @@
+/*主标题*/
+.title-box h1 {
+    color: #3498db; /* 标题颜色 */
+    font-size: 2em; /* 标题字体大小 */
+    margin-bottom: 10px; /* 与副标题的距离 */
+}
+
+/*副标题*/
+.title-box h2 {
+    color: #5dade2; /* 副标题颜色 */
+    font-size: 1.5em; /* 副标题字体大小 */
+    font-style: italic; /* 斜体 */
+    margin-top: 0; /* 减少顶部的间距 */
+}
+
+.title-box h3 {
+    font-size: 24px; /* 设置一级标题字体大小 */
+    font-weight: bold; /* 设置加粗 */
+    color: #0080ff; /* 自定义颜色 */
+}
+
+.title-box h4 {
+    font-size: 20px; /* 设置一级标题字体大小 */
+    font-weight: bold; /* 设置加粗 */
+    color: #0070e0; /* 自定义颜色 */
+}
+
+.title-box h5 {
+    font-size: 16px; /* 设置一级标题字体大小 */
+    font-weight: bold; /* 设置加粗 */
+    color: #005cb9; /* 自定义颜色 */
+}

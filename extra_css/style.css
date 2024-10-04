@@ -1,0 +1,31 @@
+/*2倍居中*/
+.large-center-text {
+    color: blue;
+    font-size: 2em;  /* 调整字体大小，比如2倍标准大小 */
+    text-align: center;  /* 文本居中 */
+    margin: 20px 0;  /* 上下留一些空白，增强视觉效果 */
+}
+
+/*居中*/
+.center-text {
+    font-size: 0.75em;
+    text-align: center;  /* 文本居中 */
+    margin: 10px 0;  /* 上下留一些空白，增强视觉效果 */
+}
+
+/*后顶格*/
+.right {
+    display: block;
+    margin-left: auto;
+    width: fit-content;
+}
+
+/*楷体*/
+.KaiTi {
+    font-family: "KaiTi", "STKaiti", serif;
+}
+
+/*居中*/
+.center {
+    text-align: center;
+}
